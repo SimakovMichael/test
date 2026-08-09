@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 untesting line
 testing line
-=======
-testing line 1
->>>>>>> 8d6b596 (test)
 commit test 1
 456
 789.
